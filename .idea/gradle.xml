@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/10_" />
+            <option value="$PROJECT_DIR$/12_" />
+            <option value="$PROJECT_DIR$/18_1l" />
+            <option value="$PROJECT_DIR$/19_2l" />
+            <option value="$PROJECT_DIR$/19_3l" />
+            <option value="$PROJECT_DIR$/20_4l" />
+            <option value="$PROJECT_DIR$/21_5l" />
+            <option value="$PROJECT_DIR$/22_6l" />
+            <option value="$PROJECT_DIR$/23_7l" />
+            <option value="$PROJECT_DIR$/24_8l" />
+            <option value="$PROJECT_DIR$/25_9l" />
+            <option value="$PROJECT_DIR$/26_10l" />
+            <option value="$PROJECT_DIR$/2_" />
+            <option value="$PROJECT_DIR$/3_" />
+            <option value="$PROJECT_DIR$/4_" />
+            <option value="$PROJECT_DIR$/5_" />
+            <option value="$PROJECT_DIR$/6_" />
+            <option value="$PROJECT_DIR$/7_" />
+            <option value="$PROJECT_DIR$/8_" />
+            <option value="$PROJECT_DIR$/9_" />
+            <option value="$PROJECT_DIR$/testing" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/1_" />
+        <option name="gradleJvm" value="16" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/1_" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
